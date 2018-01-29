@@ -1,5 +1,9 @@
+  // Is on the first row and -1 means take all of the height up 
+
 .sidebar {
   background-color: $color-primary;
   grid-column: sidebar-start / sidebar-end;
   grid-row: 1 / -1;
 }
+
+

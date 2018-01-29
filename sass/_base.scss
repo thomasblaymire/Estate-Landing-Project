@@ -42,9 +42,5 @@ body {
   [col-start] minmax(min-content, 14rem) [col-end]) [center-end] minmax(6rem, 1fr) [full-end];
   // we have 8 columns but then 1 column extra on left and 1 on the right to center the others
 
-  & > * {
-    padding: 40px;
-    font-size: 3rem;
-  }
 
 }

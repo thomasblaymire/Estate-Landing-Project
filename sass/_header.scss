@@ -1,4 +1,6 @@
+// Takes up 6 of the columns in the center
+
 .header {
   background-color: $color-grey-dark-1;
-  grid-column: full-start /col-end 6;
+  grid-column: full-start / col-end 6;
 }
