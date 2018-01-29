@@ -1,0 +1,7 @@
+// Will give a base 3 column now with 6 child items 
+
+.test {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+  grid-gap: 7rem;
+}
